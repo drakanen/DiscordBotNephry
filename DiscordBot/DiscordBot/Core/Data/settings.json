@@ -1,0 +1,8 @@
+{
+  "token": "", //Put your bot token here
+  "owner": 0, //Put your discord ID here
+  "log": [ 0, 0 ], //Guild ID, Channel ID in order
+  "version": "2.0",
+  "Banned": []
+
+}
